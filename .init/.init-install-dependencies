@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/mongodb-performance-monitor-210576-210587/mongodb_instance"
+}
